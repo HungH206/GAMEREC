@@ -1,2 +1,2 @@
 # GAMEREC
-The One Gaming Recommendation Platform You Need For You Way To Play Games!
+The One Gaming Recommendation Platform You Need For Your Way To Play Games!
